@@ -1,0 +1,1 @@
+{"last":null,"users":[{"score":50000,"nickName":"Markiyan"},{"score":2500,"nickName":"Francisco"},{"score":3900,"nickName":"Elie"},{"score":5900,"nickName":"Teste"}]}
